@@ -7,6 +7,8 @@ public class Hello {
 
         System.out.println("Created Git Repsitory");
 
+        System.out.println("new window");
+
 
     }
 }
